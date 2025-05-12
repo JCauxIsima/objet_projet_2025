@@ -6,6 +6,9 @@
     * Il faut pouvoir créer une playlist, lui ajouter/supprimer des chansons, la jouer
     * Le player doit pouvoir jouer un titre ou une playlist
 * Gérer une mascotte
+    * L'objectif est ici de proposer un second module métier qui va avoir un impact sur l'interface graphique (qui peut être un affichage console).
+    * La mascotte, quand elle est activée, sera visible en plus de l'interface permettant de gérer le lecteur.
+    * En cas d'affichage console, cette mascotte sera sans doute un simple ascii art. Des exemples très nombreux sont présents sur le net.
     * Possibilité de changer de mascotte et de la désactiver
     * L'affichage de la mascotte doit être isolé de la logique de la mascotte
 * Gamification
